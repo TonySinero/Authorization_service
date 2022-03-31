@@ -1,1 +1,2 @@
-# Authorization_service
+AUTHORIZATION_SERVICE
+user authorization service for food delivery application
